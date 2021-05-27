@@ -1,5 +1,10 @@
 # Cryptic Android Wallet
 
+![Download Count](https://img.shields.io/github/downloads/cryptic-network/cryptic-mobile-wallet/total.svg)
+![Open Issue Count](https://img.shields.io/github/issues/cryptic-network/cryptic-mobile-wallet)
+![License](https://img.shields.io/github/license/cryptic-network/cryptic-mobile-wallet)
+![Version](https://img.shields.io/github/v/release/cryptic-network/cryptic-mobile-wallet)
+
 ### Initial Setup
 
 * `git clone https://github.com/cryptic-network/cryptic-mobile-wallet`
